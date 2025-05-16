@@ -13,15 +13,15 @@
 - 🌱 I’m learning and building projects using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**  
 - 🔭 I’m working on real-world fullstack apps, including **social platforms, dashboards, and collaborative tools**  
 - 💬 Ask me about **JavaScript, React, Firebase, Node.js, Express, GitHub Projects**  
-- 📫 How to reach me: [adarsh.coding7@gmail.com](mailto:adarshbhardwaj345@gmail.com)
+- 📫 How to reach me: [adarshbhardwaj345@gmail.com](mailto:adarshbhardwaj345@gmail.com)
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="linkedin.com/in/adarsh-bhardwaj-210750247/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="adarshbhardwaj.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/adarsh-bhardwaj-210750247/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://adarshbhardwaj.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="mailto:adarshbhardwaj345@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
